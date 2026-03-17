@@ -21,6 +21,7 @@
 * My interests lie in **Generative AI, RAG-based systems, Computer Vision, and NLP**, where I focus on building scalable and practical solutions to real-world problems.
 
 * I am particularly interested in designing **efficient and reliable AI systems**, and deploying them into usable applications using modern tools like **Streamlit and AWS**.
+---
 
 ## 🛠️ Tech Stack
 
@@ -33,8 +34,9 @@
 ### 🤖 AI / ML / GenAI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
   <img src="https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge"/>
 </p>
@@ -50,13 +52,10 @@
 ### ⚙️ Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
   <img src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AWS-EC2-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AWS-EC2-black?style=for-the-badge"/>
 </p>
-
----
 
 
 ## 📊 GitHub Stats
