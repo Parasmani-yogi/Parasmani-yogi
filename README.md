@@ -13,6 +13,7 @@
 ## 🚀 About Me
 
 🎓 M.Sc. Mathematics & Computing student at **IIT (ISM) Dhanbad**
+
 🤖 Aspiring **AI / Machine Learning Engineer**
 
 I specialize in developing **end-to-end machine learning and AI-driven applications**, with a strong foundation in data structures, algorithms, and statistical modeling.
