@@ -24,36 +24,40 @@
 
 ## 🛠️ Tech Stack
 
-### 🔹 Programming & Core
+### 🚀 Languages
 
-![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square\&logo=python)
-![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=flat-square\&logo=cplusplus)
-![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat-square\&logo=mysql)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
+</p>
 
-### 🔹 AI / ML / GenAI
+### 🤖 AI / ML / GenAI
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Experienced-FF6F00?style=flat-square\&logo=tensorflow)
-![Keras](https://img.shields.io/badge/Keras-Experienced-D00000?style=flat-square\&logo=keras)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Experienced-F7931E?style=flat-square\&logo=scikitlearn)
-![LangChain](https://img.shields.io/badge/LangChain-Working-000000?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-Working-FFD21E?style=flat-square)
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+  <img src="https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge"/>
+</p>
 
-### 🔹 Data & Visualization
+### 📊 Data & Visualization
 
-![Pandas](https://img.shields.io/badge/Pandas-Experienced-150458?style=flat-square\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-Experienced-013243?style=flat-square\&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Experienced-11557c?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-Experienced-4C72B0?style=flat-square)
+<p>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy" />
+  <img src="https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-lightblue?style=for-the-badge"/>
+</p>
 
-### 🔹 Tools & Platforms
+### ⚙️ Tools & Platforms
 
-![Streamlit](https://img.shields.io/badge/Streamlit-Experienced-FF4B4B?style=flat-square\&logo=streamlit)
-![Git](https://img.shields.io/badge/Git-GitHub-F05032?style=flat-square\&logo=git)
-![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square\&logo=mysql)
-![AWS](https://img.shields.io/badge/AWS-EC2-232F3E?style=flat-square\&logo=amazonaws)
-![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=flat-square\&logo=visualstudiocode)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AWS-EC2-orange?style=for-the-badge"/>
+</p>
 
 ---
+
 
 ## 📊 GitHub Stats
 
