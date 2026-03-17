@@ -1,9 +1,11 @@
-</p>
-
 <h2 align="center">Hi, I'm Parasmani Yogi 👋</h2>
 
 <p align="center">
-  <i>Building practical AI applications and intelligent systems using Machine Learning and Generative AI</i>
+  <i>🚀 Building AI-powered applications, scalable ML systems, and real-world intelligent solutions</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%2F+ML+Engineer;GenAI+Developer;Deep+Learning+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
 ---
@@ -12,9 +14,9 @@
 
 🎓 M.Sc. Mathematics & Computing student at **IIT (ISM) Dhanbad**
 🤖 Aspiring **AI / Machine Learning Engineer**
-🧠 Interested in **AI application development, Generative AI, RAG systems, and Computer Vision**
+🧠 Passionate about **Generative AI, RAG Systems, Computer Vision & NLP**
 
-I enjoy building **end-to-end AI prototypes**, starting from data preprocessing and model design to deployment-ready applications using modern AI frameworks.
+💡 I love building **end-to-end AI systems** — from data preprocessing and model training to deployment using modern tools like Streamlit & AWS.
 
 ---
 
@@ -30,14 +32,41 @@ I enjoy building **end-to-end AI prototypes**, starting from data preprocessing 
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Experienced-FF6F00?style=flat-square\&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/Keras-Experienced-D00000?style=flat-square\&logo=keras)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Experienced-F7931E?style=flat-square\&logo=scikitlearn)
 ![LangChain](https://img.shields.io/badge/LangChain-Working-000000?style=flat-square)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-Working-FFD21E?style=flat-square)
+
+### 🔹 Data & Visualization
+
+![Pandas](https://img.shields.io/badge/Pandas-Experienced-150458?style=flat-square\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Experienced-013243?style=flat-square\&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Experienced-11557c?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-Experienced-4C72B0?style=flat-square)
 
 ### 🔹 Tools & Platforms
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-Experienced-FF4B4B?style=flat-square\&logo=streamlit)
 ![Git](https://img.shields.io/badge/Git-GitHub-F05032?style=flat-square\&logo=git)
-![Colab](https://img.shields.io/badge/Google_Colab-Cloud-F9AB00?style=flat-square\&logo=googlecolab)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square\&logo=mysql)
+![AWS](https://img.shields.io/badge/AWS-EC2-232F3E?style=flat-square\&logo=amazonaws)
+![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=flat-square\&logo=visualstudiocode)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Parasmani-yogi&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parasmani-yogi&theme=tokyonight" />
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
+* 🔹 Advanced **Generative AI (LangChain, RAG)**
+* 🔹 **Deep Learning Architectures (CNNs, Transfer Learning)**
+* 🔹 **System Design for AI Applications**
 
 ---
 
@@ -45,9 +74,13 @@ I enjoy building **end-to-end AI prototypes**, starting from data preprocessing 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/parasmani-yogi-64ab28343/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Parasmani-yogi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+---
+
+⭐ *Focused on learning, building, and growing every day in AI & ML.*
