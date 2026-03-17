@@ -12,14 +12,16 @@
 
 ## 🚀 About Me
 
-🎓 M.Sc. Mathematics & Computing student at **IIT (ISM) Dhanbad**  
-🤖 Aspiring **AI / Machine Learning Engineer**  
+🎓 M.Sc. Mathematics & Computing student at **IIT (ISM) Dhanbad**
+🤖 Aspiring **AI / Machine Learning Engineer**
 
-I have a strong foundation in **machine learning, deep learning, and data-driven problem solving**, supported by coursework in algorithms, statistics, and database systems.
+I specialize in developing **end-to-end machine learning and AI-driven applications**, with a strong foundation in data structures, algorithms, and statistical modeling.
 
-I am experienced in building **scalable AI systems**, including applications in **computer vision, NLP, and exploratory data analysis**, with hands-on experience in model development, optimization, and deployment.
+My interests lie in **Generative AI, RAG-based systems, Computer Vision, and NLP**, where I focus on building scalable and practical solutions to real-world problems.
 
-Currently, I am exploring **Generative AI and retrieval-augmented generation (RAG)** to build intelligent and context-aware applications.
+I am particularly interested in designing **efficient and reliable AI systems**, and deploying them into usable applications using modern tools like **Streamlit and AWS**.
+
+
 ## 🛠️ Tech Stack
 
 ### 🔹 Programming & Core
